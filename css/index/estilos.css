@@ -1,0 +1,45 @@
+body {
+    background-color: #D9DADF;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+
+.contenedor1 {
+    width: 100%;
+    height: 50%;
+    position: relative;
+}
+
+.caja1 {
+    width: 50px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 150px 0 0 -25px;
+}
+
+.caja2 {
+    width: 50px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 500px 0 0 -500px;
+}
+
+.caja3 {
+    width: 50px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin: 500px 0 0 500px;
+}
