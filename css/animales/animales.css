@@ -1,14 +1,10 @@
-#carrusel {
-    
-}
-
-#imagenes {
-    width: 960px;
-    height: 540px;
+.imagenes {
+    width: 1175px;
+    height: 700px;
 }
 
 .gallery {
-	padding: 1rem;
+	padding: 50px;
 	display: grid;
 	grid-template-columns: repeat(10, 80vw);
 	grid-template-rows: 1fr;
