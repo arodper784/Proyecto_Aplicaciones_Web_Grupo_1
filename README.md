@@ -1,7 +1,3 @@
-#Proyecto_Aplicaciones_Web_Grupo_1
-
-  
-
 # Proyecto_Aplicaciones_Web_Grupo_1
 
 ## Componentes del grupo
