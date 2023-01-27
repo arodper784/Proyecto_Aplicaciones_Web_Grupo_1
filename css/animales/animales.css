@@ -24,7 +24,7 @@
   body {
 	font: 20px/28px sans-serif;
   }
-  
+
   .container {
 	max-width: 900px;
 	margin: 0 auto;
@@ -49,6 +49,10 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+
+.pagprin{
+	padding-left: 105%;
 }
   
   /* SLIDESHOW
